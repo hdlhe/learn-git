@@ -1,0 +1,3 @@
+[submodule "lean_gitsubmodule"]
+	path = lean_gitsubmodule
+	url = git@github.com:liuhongen/lean_gitsubmodule.git
